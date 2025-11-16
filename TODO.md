@@ -1,0 +1,23 @@
+de;# TODO List for Enterprise Agent: Blog Writer Agent
+
+- [x] Create project structure (directories: agents, models, utils, tests)
+- [x] Create requirements.txt with dependencies
+- [x] Create config.py for settings
+- [x] Create models.py for data structures
+- [x] Create agents/__init__.py
+- [x] Create agents/ingestion.py
+- [x] Create agents/extraction.py
+- [x] Create agents/summarization.py
+- [x] Create agents/analysis.py
+- [x] Create agents/compliance.py
+- [x] Create agents/coordinator.py
+- [x] Create utils/__init__.py
+- [x] Create utils/logging.py
+- [x] Create utils/security.py
+- [x] Create main.py with FastAPI app
+- [x] Create README.md
+- [x] Create tests/test_agents.py
+- [x] Install dependencies
+- [x] Set up environment variables
+- [x] Run the app
+- [x] Test endpoints with sample documents
